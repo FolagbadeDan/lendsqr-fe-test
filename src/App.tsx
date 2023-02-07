@@ -1,18 +1,3 @@
-// import React from 'react';
-// import LoginPage from './componets/LoginPage';
-// import Navbar from './componets/Navbar';
-// import './App.css';
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <LoginPage/>
-//     </div>
-//   );
-// }
-
-// export default App;
-
 
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
